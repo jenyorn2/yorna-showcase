@@ -34,7 +34,7 @@ straight from the phone to storage with a signed link; the server checks them af
 
 ## By the numbers (November 2026)
 
-| | |
+| What | Count |
 |---|---|
 | Pages | 119 |
 | API routes | 235 |
